@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Albin Jose  
 
-![Profile Banner]([(https://avatars.githubusercontent.com/u/93481173?v=4&size=64)])  
+![Profile Banner](https://avatars.githubusercontent.com/u/93481173?v=4&size=64) 
 
 ## 🚀 About Me  
 I’m **Albin Jose**, an aspiring **PHP Developer** from Kerala, India.  
